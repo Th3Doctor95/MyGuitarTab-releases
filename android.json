@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/Th3Doctor95/MyGuitarTab-releases/releases/download/v0.2.3/MyGuitarTab.apk",
-  "notes": "fix: nell'avviso di aggiornamento solo il titolo del commit\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01CSWXgNA2dSZdMDtN358byn"
+  "version": "0.2.4",
+  "url": "https://github.com/Th3Doctor95/MyGuitarTab-releases/releases/download/v0.2.4/MyGuitarTab.apk",
+  "notes": "Novità: Studio di registrazione, brani preferiti, Opzioni (tema, colori, spartito scuro), nuovi corsi di elettrica, ritmica e blues\n\n- Preferiti: stellina su libreria, schede e brano aperto (Ctrl+D), filtro e finestra di riepilogo\n- Opzioni (Ctrl+,): tema anche come Windows, colore principale, font e dimensione dell'interfaccia,\n  foglio carta/seppia/scuro, numeri della tab più grandi, spaziatura delle note, predefiniti dei brani,\n  nomi delle note C D E o Do Re Mi\n- Stampa sempre nero su bianco\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 }
